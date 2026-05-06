@@ -6,7 +6,7 @@ This directory contains the student laboratory material for the lecture series o
 
 ## Course Materials
 
-Available lesson notebooks:
+Available notebook files:
 
 - `single_neuron_perceptron_energy.ipynb`
 - `nn.ipynb`
@@ -63,11 +63,13 @@ Open the following files in VS Code:
 
 After opening a notebook, select the active Python kernel that matches the environment created in the previous step.
 
-## Lesson 1: Energy Data Management
+## File Descriptions
 
-This lesson introduces a single-neuron perceptron for binary classification using synthetic energy-style data.
+### `single_neuron_perceptron_energy.ipynb`
 
-Topics covered:
+This notebook introduces a single-neuron perceptron for binary classification using synthetic energy-style data.
+
+Content:
 
 - synthetic feature generation
 - feature normalization
@@ -75,22 +77,22 @@ Topics covered:
 - model training
 - classification evaluation
 
-## Lesson 2: Neural Networks for Energy Classification
+### `nn.ipynb`
 
-This lesson introduces a multi-layer neural network for the same energy-management context.
+This notebook introduces a multi-layer neural network for the same energy-management context.
 
-Topics covered:
+Content:
 
 - feature scaling with `StandardScaler`
 - hidden layers and nonlinear modeling
 - neural-network training with `MLPClassifier`
 - classification performance evaluation
 
-## Lesson 3: Explainable AI with SHAP
+### `nnXAI.ipynb`
 
-This lesson introduces explainability for neural-network predictions using SHAP.
+This notebook introduces explainability for neural-network predictions using SHAP.
 
-Topics covered:
+Content:
 
 - global feature importance
 - local explanation of individual predictions
