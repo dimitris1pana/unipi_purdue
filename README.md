@@ -12,12 +12,6 @@ Available lesson notebooks:
 - `nn.ipynb`
 - `nnXAI.ipynb`
 
-Lesson coverage:
-
-- `Lesson 1: Energy Data Management`
-- `Lesson 2: Neural Networks for Energy Classification`
-- `Lesson 3: Explainable AI with SHAP`
-
 ## Software Setup
 
 Complete the following setup before opening the notebooks.
@@ -63,9 +57,9 @@ pip install -r requirements.txt
 
 Open the following files in VS Code:
 
-- `examples/single_neuron_perceptron_energy.ipynb`
-- `examples/nn.ipynb`
-- `examples/nnXAI.ipynb`
+- `single_neuron_perceptron_energy.ipynb`
+- `nn.ipynb`
+- `nnXAI.ipynb`
 
 After opening a notebook, select the active Python kernel that matches the environment created in the previous step.
 
